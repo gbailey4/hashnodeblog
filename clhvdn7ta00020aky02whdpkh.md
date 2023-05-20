@@ -3,6 +3,7 @@ title: "Slow SMB on Unraid"
 datePublished: Sat May 20 2023 02:35:15 GMT+0000 (Coordinated Universal Time)
 cuid: clhvdn7ta00020aky02whdpkh
 slug: slow-smb-on-unraid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684550313136/8cea87ef-0996-4774-acf8-ac3e7b6bdad6.png
 tags: homeserver, homelab, smb, unraid
 
 ---
